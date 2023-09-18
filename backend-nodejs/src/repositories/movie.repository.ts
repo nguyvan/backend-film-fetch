@@ -82,17 +82,37 @@ export class MovieRepository {
 			.aggregate([
 				{
 					$match: {
-						slug: search
-							? {
-									$regex: new RegExp(
-										`.*(${search.toLowerCase()}).*`,
-										"i"
-									),
-							  }
+						$or: [
+							{
+								slug: search
+									? {
+											$regex: new RegExp(
+												`.*(${search.toLowerCase()}).*`,
+												"i"
+											),
+									  }
+									: {
+											$ne: null,
+									  },
+							},
+							{
+								name: search
+									? {
+											$regex: new RegExp(
+												`.*(${search.toLowerCase()}).*`,
+												"i"
+											),
+									  }
+									: {
+											$ne: null,
+									  },
+							},
+						],
+						type: type
+							? type
 							: {
 									$ne: null,
 							  },
-						type: type,
 					},
 				},
 				{
