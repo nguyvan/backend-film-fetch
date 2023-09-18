@@ -1,0 +1,85 @@
+version: "3"
+services:
+    mongodb:
+        image: mongo
+        ports:
+            - "27017:27017"
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: fatcouple-anime
+            MONGO_INITDB_ROOT_PASSWORD: fatcouple-anime121219*
+            MONGO_INITDB_DATABASE: fatcouple-db
+        volumes:
+            - mongodb-data:/var/lib/mongo
+            - ./init-mongo.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+
+    adminer:
+        image: dockette/adminer
+        ports:
+            - 8000:80
+
+    s3:
+        image: minio/minio
+        ports:
+            - 9000:9000
+            - 9001:9001
+        volumes:
+            - s3-data:/data
+        environment:
+            MINIO_ACCESS_KEY: cduLa9RZkcjOVlO2P46dlQ
+            MINIO_SECRET_KEY: 5qpIXFuMMw6n5c4qziKFNHOoG1D9WuEQ
+        command: minio server --console-address ":9001" /data
+
+    createbuckets:
+        image: minio/mc
+        depends_on:
+            - s3
+        volumes:
+            - /media/npham/external/fatcouple-tv:/tmp/data
+        entrypoint: >
+            /bin/sh -c "
+            /usr/bin/mc config host add s3 http://s3:9000 cduLa9RZkcjOVlO2P46dlQ 5qpIXFuMMw6n5c4qziKFNHOoG1D9WuEQ;
+            /usr/bin/mc mb s3/fatcouple-tv;
+            /usr/bin/mc policy download s3/fatcouple-tv;
+            /usr/bin/mc cp /tmp/data s3/fatcouple-tv;
+            exit 0;
+            "
+    backend:
+        container_name: backend
+        image: nguyvan/fatcouple-tv
+        build:
+            context: ./backend-nodejs
+            dockerfile: dockerfile
+            args:
+                UID: ${UID:-1000}
+                GID: ${GID:-1000}
+        env_file:
+            - ./backend-nodejs/.env
+        ports:
+            - 5000:5000
+        depends_on:
+            - mongodb
+            - s3
+        expose:
+            - 5000
+        volumes:
+            - /backend-nodejs:/app-backend
+
+    nginx:
+        depends_on:
+            - backend
+        restart: always
+        build:
+            context: ./nginx
+            dockerfile: dockerfile
+        ports:
+            - 80:80
+
+volumes:
+    mongodb-data: {}
+    s3-data:
+        driver: local
+        driver_opts:
+            type: none
+            device: /media/npham/external
+            o: bind
+    backend-nodejs: {}

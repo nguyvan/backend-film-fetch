@@ -1,0 +1,83 @@
+{
+	"harry_porter_and_the_sorcerers_stone": [
+		{
+			"video": "harry_potter/video/1.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_porter_and_the_chamber_of_secrets": [
+		{
+			"video": "harry_potter/video/2.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_porter_and_the_prisoner_of_azkaban": [
+		{
+			"video": "harry_potter/video/3.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_potter_and_the_gobelet_of_fire": [
+		{
+			"video": "harry_potter/video/4.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_potter_and_the_order_of_the_phoenix": [
+		{
+			"video": "harry_potter/video/5.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_potter_and_the_half_blood_prince": [
+		{
+			"video": "harry_potter/video/6.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_potter_and_the_deathly_hallows_part_1": [
+		{
+			"video": "harry_potter/video/7-1.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"harry_potter_and_the_deathly_hallows_part_2": [
+		{
+			"video": "harry_potter/video/7-2.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	],
+	"one_piece_z_the_movie": [
+		{
+			"video": "one_piece/one_piece_film_z/video/1.mp4",
+			"poster": null,
+			"video_storage": "MINIO",
+			"poster_storage": "MINIO",
+			"episode": 1
+		}
+	]
+}

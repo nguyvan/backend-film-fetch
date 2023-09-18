@@ -1,0 +1,4 @@
+backend-flask
+backend-nodejs/.env
+backend-nodejs/dist
+backend-nodejs/node_modules

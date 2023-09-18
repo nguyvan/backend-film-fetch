@@ -1,0 +1,4853 @@
+[{
+  "_id": {
+    "$oid": "650470be68030bd86b800bf7"
+  },
+  "video": "harry_potter/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470bd68030bd86b800bf1"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter1-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800bfd"
+  },
+  "video": "harry_potter/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800bf9"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter2-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c03"
+  },
+  "video": "harry_potter/video/3.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800bff"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter3-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c09"
+  },
+  "video": "harry_potter/video/4.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c05"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter4-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c0f"
+  },
+  "video": "harry_potter/video/5.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c0b"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter5-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c15"
+  },
+  "video": "harry_potter/video/6.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c11"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter6-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c1b"
+  },
+  "video": "harry_potter/video/7-1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c17"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter7_1-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c21"
+  },
+  "video": "harry_potter/video/7-2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c1d"
+  },
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "harry_potter/sub/vi/HarryPotter7_2-vietsub.vtt",
+  "subtitle_storage": "MINIO"
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c29"
+  },
+  "video": "one_piece/one_piece_serie/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c2b"
+  },
+  "video": "one_piece/one_piece_serie/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c2d"
+  },
+  "video": "one_piece/one_piece_serie/video/3.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c2f"
+  },
+  "video": "one_piece/one_piece_serie/video/4.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c31"
+  },
+  "video": "one_piece/one_piece_serie/video/5.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c33"
+  },
+  "video": "one_piece/one_piece_serie/video/6.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c35"
+  },
+  "video": "one_piece/one_piece_serie/video/7.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c37"
+  },
+  "video": "one_piece/one_piece_serie/video/8.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c39"
+  },
+  "video": "one_piece/one_piece_serie/video/9.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c3b"
+  },
+  "video": "one_piece/one_piece_serie/video/10.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c3d"
+  },
+  "video": "one_piece/one_piece_serie/video/11.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c3f"
+  },
+  "video": "one_piece/one_piece_serie/video/12.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c41"
+  },
+  "video": "one_piece/one_piece_serie/video/13.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c43"
+  },
+  "video": "one_piece/one_piece_serie/video/14.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c45"
+  },
+  "video": "one_piece/one_piece_serie/video/15.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c47"
+  },
+  "video": "one_piece/one_piece_serie/video/16.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 16,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c49"
+  },
+  "video": "one_piece/one_piece_serie/video/17.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 17,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c4b"
+  },
+  "video": "one_piece/one_piece_serie/video/18.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c4d"
+  },
+  "video": "one_piece/one_piece_serie/video/19.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c4f"
+  },
+  "video": "one_piece/one_piece_serie/video/20.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c51"
+  },
+  "video": "one_piece/one_piece_serie/video/21.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c53"
+  },
+  "video": "one_piece/one_piece_serie/video/22.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c55"
+  },
+  "video": "one_piece/one_piece_serie/video/23.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c57"
+  },
+  "video": "one_piece/one_piece_serie/video/24.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c59"
+  },
+  "video": "one_piece/one_piece_serie/video/25.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c5b"
+  },
+  "video": "one_piece/one_piece_serie/video/26.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 26,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c5d"
+  },
+  "video": "one_piece/one_piece_serie/video/27.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 27,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c5f"
+  },
+  "video": "one_piece/one_piece_serie/video/28.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 28,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c61"
+  },
+  "video": "one_piece/one_piece_serie/video/29.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 29,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c63"
+  },
+  "video": "one_piece/one_piece_serie/video/30.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c65"
+  },
+  "video": "one_piece/one_piece_serie/video/31.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c67"
+  },
+  "video": "one_piece/one_piece_serie/video/32.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 32,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c69"
+  },
+  "video": "one_piece/one_piece_serie/video/33.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 33,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c6b"
+  },
+  "video": "one_piece/one_piece_serie/video/34.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 34,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c6d"
+  },
+  "video": "one_piece/one_piece_serie/video/35.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c6f"
+  },
+  "video": "one_piece/one_piece_serie/video/36.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 36,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c71"
+  },
+  "video": "one_piece/one_piece_serie/video/37.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 37,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c73"
+  },
+  "video": "one_piece/one_piece_serie/video/38.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 38,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c75"
+  },
+  "video": "one_piece/one_piece_serie/video/39.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 39,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c77"
+  },
+  "video": "one_piece/one_piece_serie/video/40.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 40,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c79"
+  },
+  "video": "one_piece/one_piece_serie/video/41.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 41,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c7b"
+  },
+  "video": "one_piece/one_piece_serie/video/42.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 42,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c7d"
+  },
+  "video": "one_piece/one_piece_serie/video/43.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 43,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c7f"
+  },
+  "video": "one_piece/one_piece_serie/video/44.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 44,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c81"
+  },
+  "video": "one_piece/one_piece_serie/video/45.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c83"
+  },
+  "video": "one_piece/one_piece_serie/video/46.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 46,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c85"
+  },
+  "video": "one_piece/one_piece_serie/video/47.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 47,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c87"
+  },
+  "video": "one_piece/one_piece_serie/video/48.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c89"
+  },
+  "video": "one_piece/one_piece_serie/video/49.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 49,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c8b"
+  },
+  "video": "one_piece/one_piece_serie/video/50.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c8d"
+  },
+  "video": "one_piece/one_piece_serie/video/51.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 51,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c8f"
+  },
+  "video": "one_piece/one_piece_serie/video/52.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 52,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c91"
+  },
+  "video": "one_piece/one_piece_serie/video/53.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 53,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c93"
+  },
+  "video": "one_piece/one_piece_serie/video/54.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 54,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c95"
+  },
+  "video": "one_piece/one_piece_serie/video/55.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c97"
+  },
+  "video": "one_piece/one_piece_serie/video/56.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c99"
+  },
+  "video": "one_piece/one_piece_serie/video/57.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 57,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c9b"
+  },
+  "video": "one_piece/one_piece_serie/video/58.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 58,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c9d"
+  },
+  "video": "one_piece/one_piece_serie/video/59.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800c9f"
+  },
+  "video": "one_piece/one_piece_serie/video/60.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 60,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ca1"
+  },
+  "video": "one_piece/one_piece_serie/video/61.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 61,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ca3"
+  },
+  "video": "one_piece/one_piece_serie/video/62.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 62,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ca5"
+  },
+  "video": "one_piece/one_piece_serie/video/63.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 63,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ca7"
+  },
+  "video": "one_piece/one_piece_serie/video/64.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 64,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ca9"
+  },
+  "video": "one_piece/one_piece_serie/video/65.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 65,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cab"
+  },
+  "video": "one_piece/one_piece_serie/video/66.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 66,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cad"
+  },
+  "video": "one_piece/one_piece_serie/video/67.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800caf"
+  },
+  "video": "one_piece/one_piece_serie/video/68.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 68,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cb1"
+  },
+  "video": "one_piece/one_piece_serie/video/69.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 69,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cb3"
+  },
+  "video": "one_piece/one_piece_serie/video/70.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 70,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cb5"
+  },
+  "video": "one_piece/one_piece_serie/video/71.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 71,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cb7"
+  },
+  "video": "one_piece/one_piece_serie/video/72.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 72,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cb9"
+  },
+  "video": "one_piece/one_piece_serie/video/73.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 73,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cbb"
+  },
+  "video": "one_piece/one_piece_serie/video/74.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 74,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cbd"
+  },
+  "video": "one_piece/one_piece_serie/video/75.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 75,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cbf"
+  },
+  "video": "one_piece/one_piece_serie/video/76.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 76,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cc1"
+  },
+  "video": "one_piece/one_piece_serie/video/77.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 77,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cc3"
+  },
+  "video": "one_piece/one_piece_serie/video/78.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 78,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cc5"
+  },
+  "video": "one_piece/one_piece_serie/video/79.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 79,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cc7"
+  },
+  "video": "one_piece/one_piece_serie/video/80.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 80,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cc9"
+  },
+  "video": "one_piece/one_piece_serie/video/81.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 81,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ccb"
+  },
+  "video": "one_piece/one_piece_serie/video/82.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 82,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ccd"
+  },
+  "video": "one_piece/one_piece_serie/video/83.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ccf"
+  },
+  "video": "one_piece/one_piece_serie/video/84.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 84,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cd1"
+  },
+  "video": "one_piece/one_piece_serie/video/85.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 85,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cd3"
+  },
+  "video": "one_piece/one_piece_serie/video/86.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 86,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cd5"
+  },
+  "video": "one_piece/one_piece_serie/video/87.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 87,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cd7"
+  },
+  "video": "one_piece/one_piece_serie/video/88.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 88,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cd9"
+  },
+  "video": "one_piece/one_piece_serie/video/89.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 89,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cdb"
+  },
+  "video": "one_piece/one_piece_serie/video/90.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 90,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cdd"
+  },
+  "video": "one_piece/one_piece_serie/video/91.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 91,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cdf"
+  },
+  "video": "one_piece/one_piece_serie/video/92.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 92,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ce1"
+  },
+  "video": "one_piece/one_piece_serie/video/93.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 93,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ce3"
+  },
+  "video": "one_piece/one_piece_serie/video/94.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 94,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ce5"
+  },
+  "video": "one_piece/one_piece_serie/video/95.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 95,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ce7"
+  },
+  "video": "one_piece/one_piece_serie/video/96.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 96,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ce9"
+  },
+  "video": "one_piece/one_piece_serie/video/97.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 97,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ceb"
+  },
+  "video": "one_piece/one_piece_serie/video/98.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 98,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800ced"
+  },
+  "video": "one_piece/one_piece_serie/video/99.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cef"
+  },
+  "video": "one_piece/one_piece_serie/video/100.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cf1"
+  },
+  "video": "one_piece/one_piece_serie/video/101.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 101,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cf3"
+  },
+  "video": "one_piece/one_piece_serie/video/102.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 102,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cf5"
+  },
+  "video": "one_piece/one_piece_serie/video/103.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 103,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cf7"
+  },
+  "video": "one_piece/one_piece_serie/video/104.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 104,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cf9"
+  },
+  "video": "one_piece/one_piece_serie/video/105.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 105,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cfb"
+  },
+  "video": "one_piece/one_piece_serie/video/106.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 106,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cfd"
+  },
+  "video": "one_piece/one_piece_serie/video/107.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 107,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800cff"
+  },
+  "video": "one_piece/one_piece_serie/video/108.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 108,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d01"
+  },
+  "video": "one_piece/one_piece_serie/video/109.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 109,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d03"
+  },
+  "video": "one_piece/one_piece_serie/video/110.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 110,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d05"
+  },
+  "video": "one_piece/one_piece_serie/video/111.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 111,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d07"
+  },
+  "video": "one_piece/one_piece_serie/video/112.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 112,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d09"
+  },
+  "video": "one_piece/one_piece_serie/video/113.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 113,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d0b"
+  },
+  "video": "one_piece/one_piece_serie/video/114.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 114,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d0d"
+  },
+  "video": "one_piece/one_piece_serie/video/115.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 115,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d0f"
+  },
+  "video": "one_piece/one_piece_serie/video/116.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 116,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d11"
+  },
+  "video": "one_piece/one_piece_serie/video/117.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 117,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d13"
+  },
+  "video": "one_piece/one_piece_serie/video/118.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 118,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d15"
+  },
+  "video": "one_piece/one_piece_serie/video/119.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 119,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d17"
+  },
+  "video": "one_piece/one_piece_serie/video/120.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 120,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d19"
+  },
+  "video": "one_piece/one_piece_serie/video/121.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 121,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d1b"
+  },
+  "video": "one_piece/one_piece_serie/video/122.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 122,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d1d"
+  },
+  "video": "one_piece/one_piece_serie/video/123.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 123,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d1f"
+  },
+  "video": "one_piece/one_piece_serie/video/124.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 124,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d21"
+  },
+  "video": "one_piece/one_piece_serie/video/125.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 125,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d23"
+  },
+  "video": "one_piece/one_piece_serie/video/126.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 126,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d25"
+  },
+  "video": "one_piece/one_piece_serie/video/127.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 127,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d27"
+  },
+  "video": "one_piece/one_piece_serie/video/128.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 128,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d29"
+  },
+  "video": "one_piece/one_piece_serie/video/129.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 129,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d2b"
+  },
+  "video": "one_piece/one_piece_serie/video/130.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 130,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d2d"
+  },
+  "video": "one_piece/one_piece_serie/video/131.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 131,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d2f"
+  },
+  "video": "one_piece/one_piece_serie/video/132.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 132,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d31"
+  },
+  "video": "one_piece/one_piece_serie/video/133.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 133,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d33"
+  },
+  "video": "one_piece/one_piece_serie/video/134.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 134,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d35"
+  },
+  "video": "one_piece/one_piece_serie/video/135.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 135,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d37"
+  },
+  "video": "one_piece/one_piece_serie/video/136.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 136,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d39"
+  },
+  "video": "one_piece/one_piece_serie/video/137.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 137,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d3b"
+  },
+  "video": "one_piece/one_piece_serie/video/138.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 138,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d3d"
+  },
+  "video": "one_piece/one_piece_serie/video/139.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 139,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d3f"
+  },
+  "video": "one_piece/one_piece_serie/video/140.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 140,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d41"
+  },
+  "video": "one_piece/one_piece_serie/video/141.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 141,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d43"
+  },
+  "video": "one_piece/one_piece_serie/video/142.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 142,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d45"
+  },
+  "video": "one_piece/one_piece_serie/video/143.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 143,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d47"
+  },
+  "video": "one_piece/one_piece_serie/video/144.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 144,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d49"
+  },
+  "video": "one_piece/one_piece_serie/video/145.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 145,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d4b"
+  },
+  "video": "one_piece/one_piece_serie/video/146.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 146,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d4d"
+  },
+  "video": "one_piece/one_piece_serie/video/147.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 147,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d4f"
+  },
+  "video": "one_piece/one_piece_serie/video/148.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 148,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d51"
+  },
+  "video": "one_piece/one_piece_serie/video/149.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 149,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d53"
+  },
+  "video": "one_piece/one_piece_serie/video/150.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 150,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d55"
+  },
+  "video": "one_piece/one_piece_serie/video/151.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 151,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d57"
+  },
+  "video": "one_piece/one_piece_serie/video/152.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 152,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d59"
+  },
+  "video": "one_piece/one_piece_serie/video/153.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 153,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d5b"
+  },
+  "video": "one_piece/one_piece_serie/video/154.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 154,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d5d"
+  },
+  "video": "one_piece/one_piece_serie/video/155.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 155,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d5f"
+  },
+  "video": "one_piece/one_piece_serie/video/156.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 156,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d61"
+  },
+  "video": "one_piece/one_piece_serie/video/157.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 157,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d63"
+  },
+  "video": "one_piece/one_piece_serie/video/158.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 158,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d65"
+  },
+  "video": "one_piece/one_piece_serie/video/159.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 159,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d67"
+  },
+  "video": "one_piece/one_piece_serie/video/160.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 160,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d69"
+  },
+  "video": "one_piece/one_piece_serie/video/161.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 161,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d6b"
+  },
+  "video": "one_piece/one_piece_serie/video/162.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 162,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d6d"
+  },
+  "video": "one_piece/one_piece_serie/video/163.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 163,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d6f"
+  },
+  "video": "one_piece/one_piece_serie/video/164.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 164,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d71"
+  },
+  "video": "one_piece/one_piece_serie/video/165.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 165,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d73"
+  },
+  "video": "one_piece/one_piece_serie/video/166.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 166,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d75"
+  },
+  "video": "one_piece/one_piece_serie/video/167.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 167,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d77"
+  },
+  "video": "one_piece/one_piece_serie/video/168.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 168,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d79"
+  },
+  "video": "one_piece/one_piece_serie/video/169.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 169,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d7b"
+  },
+  "video": "one_piece/one_piece_serie/video/170.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 170,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d7d"
+  },
+  "video": "one_piece/one_piece_serie/video/171.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 171,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d7f"
+  },
+  "video": "one_piece/one_piece_serie/video/172.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 172,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d81"
+  },
+  "video": "one_piece/one_piece_serie/video/173.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 173,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d83"
+  },
+  "video": "one_piece/one_piece_serie/video/174.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 174,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d85"
+  },
+  "video": "one_piece/one_piece_serie/video/175.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 175,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d87"
+  },
+  "video": "one_piece/one_piece_serie/video/176.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 176,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d89"
+  },
+  "video": "one_piece/one_piece_serie/video/177.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 177,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d8b"
+  },
+  "video": "one_piece/one_piece_serie/video/178.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 178,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d8d"
+  },
+  "video": "one_piece/one_piece_serie/video/179.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 179,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d8f"
+  },
+  "video": "one_piece/one_piece_serie/video/180.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 180,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d91"
+  },
+  "video": "one_piece/one_piece_serie/video/181.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 181,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d93"
+  },
+  "video": "one_piece/one_piece_serie/video/182.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 182,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d95"
+  },
+  "video": "one_piece/one_piece_serie/video/183.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 183,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d97"
+  },
+  "video": "one_piece/one_piece_serie/video/184.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 184,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d99"
+  },
+  "video": "one_piece/one_piece_serie/video/185.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 185,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d9b"
+  },
+  "video": "one_piece/one_piece_serie/video/186.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 186,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d9d"
+  },
+  "video": "one_piece/one_piece_serie/video/187.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 187,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800d9f"
+  },
+  "video": "one_piece/one_piece_serie/video/188.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 188,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800da1"
+  },
+  "video": "one_piece/one_piece_serie/video/189.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 189,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800da3"
+  },
+  "video": "one_piece/one_piece_serie/video/190.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 190,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800da5"
+  },
+  "video": "one_piece/one_piece_serie/video/191.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 191,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800da7"
+  },
+  "video": "one_piece/one_piece_serie/video/192.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 192,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800da9"
+  },
+  "video": "one_piece/one_piece_serie/video/193.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 193,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800dab"
+  },
+  "video": "one_piece/one_piece_serie/video/194.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 194,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800dad"
+  },
+  "video": "one_piece/one_piece_serie/video/195.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 195,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800daf"
+  },
+  "video": "one_piece/one_piece_serie/video/196.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 196,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800db1"
+  },
+  "video": "one_piece/one_piece_serie/video/197.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 197,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800db3"
+  },
+  "video": "one_piece/one_piece_serie/video/198.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 198,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800db5"
+  },
+  "video": "one_piece/one_piece_serie/video/199.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 199,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800db7"
+  },
+  "video": "one_piece/one_piece_serie/video/200.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 200,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650470be68030bd86b800dbd"
+  },
+  "video": "one_piece/one_piece_film_z/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800db9"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf05"
+  },
+  "video": "dr_stone_1/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf07"
+  },
+  "video": "dr_stone_1/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf09"
+  },
+  "video": "dr_stone_1/video/3.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf0b"
+  },
+  "video": "dr_stone_1/video/4.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf0d"
+  },
+  "video": "dr_stone_1/video/5.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf0f"
+  },
+  "video": "dr_stone_1/video/6.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf11"
+  },
+  "video": "dr_stone_1/video/7.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf13"
+  },
+  "video": "dr_stone_1/video/8.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf15"
+  },
+  "video": "dr_stone_1/video/9.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf17"
+  },
+  "video": "dr_stone_1/video/10.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf19"
+  },
+  "video": "dr_stone_1/video/11.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf1b"
+  },
+  "video": "dr_stone_1/video/12.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf1d"
+  },
+  "video": "dr_stone_1/video/13.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf1f"
+  },
+  "video": "dr_stone_1/video/14.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf21"
+  },
+  "video": "dr_stone_1/video/15.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf23"
+  },
+  "video": "dr_stone_1/video/16.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 16,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf25"
+  },
+  "video": "dr_stone_1/video/17.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 17,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf27"
+  },
+  "video": "dr_stone_1/video/18.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7db8e4efddb61c2cf29"
+  },
+  "video": "dr_stone_1/video/19.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf2b"
+  },
+  "video": "dr_stone_1/video/20.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf2d"
+  },
+  "video": "dr_stone_1/video/21.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf2f"
+  },
+  "video": "dr_stone_1/video/22.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf31"
+  },
+  "video": "dr_stone_1/video/23.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf33"
+  },
+  "video": "dr_stone_1/video/24.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7db8e4efddb61c2cefe"
+  },
+  "episode": 24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf3a"
+  },
+  "video": "dr_stone_2/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf3c"
+  },
+  "video": "dr_stone_2/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf3e"
+  },
+  "video": "dr_stone_2/video/3.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf40"
+  },
+  "video": "dr_stone_2/video/4.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf42"
+  },
+  "video": "dr_stone_2/video/5.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf44"
+  },
+  "video": "dr_stone_2/video/6.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf46"
+  },
+  "video": "dr_stone_2/video/7.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf48"
+  },
+  "video": "dr_stone_2/video/8.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf4a"
+  },
+  "video": "dr_stone_2/video/9.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf4c"
+  },
+  "video": "dr_stone_2/video/10.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf4e"
+  },
+  "video": "dr_stone_2/video/11.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf35"
+  },
+  "episode": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf55"
+  },
+  "video": "dr_stone_3/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf57"
+  },
+  "video": "dr_stone_3/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf59"
+  },
+  "video": "dr_stone_3/video/3.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf5b"
+  },
+  "video": "dr_stone_3/video/4.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf5d"
+  },
+  "video": "dr_stone_3/video/5.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf5f"
+  },
+  "video": "dr_stone_3/video/6.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf61"
+  },
+  "video": "dr_stone_3/video/7.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf63"
+  },
+  "video": "dr_stone_3/video/8.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf65"
+  },
+  "video": "dr_stone_3/video/9.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf67"
+  },
+  "video": "dr_stone_3/video/10.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf69"
+  },
+  "video": "dr_stone_3/video/11.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf50"
+  },
+  "episode": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf70"
+  },
+  "video": "dr_stone_special/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf6b"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf72"
+  },
+  "video": "dr_stone_special/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf6b"
+  },
+  "episode": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf79"
+  },
+  "video": "kimetsu_no_yaiba_movie_1/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf74"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf80"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf82"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/2.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf84"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/3.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf86"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/4.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf88"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/5.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf8a"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/6.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf8c"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/7.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf8e"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/8.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf90"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/9.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf92"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/10.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504c7dc8e4efddb61c2cf94"
+  },
+  "video": "kimetsu_no_yaiba_season3/video/11.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf7b"
+  },
+  "episode": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfa9"
+  },
+  "video": "one_piece/one_piece_serie/video/201.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 201,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfad"
+  },
+  "video": "one_piece/one_piece_serie/video/202.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 202,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfaf"
+  },
+  "video": "one_piece/one_piece_serie/video/203.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 203,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfb1"
+  },
+  "video": "one_piece/one_piece_serie/video/204.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 204,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfb3"
+  },
+  "video": "one_piece/one_piece_serie/video/205.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 205,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfb5"
+  },
+  "video": "one_piece/one_piece_serie/video/206.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 206,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfb7"
+  },
+  "video": "one_piece/one_piece_serie/video/207.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 207,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfb9"
+  },
+  "video": "one_piece/one_piece_serie/video/208.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 208,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfbb"
+  },
+  "video": "one_piece/one_piece_serie/video/209.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 209,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfbd"
+  },
+  "video": "one_piece/one_piece_serie/video/210.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 210,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfbf"
+  },
+  "video": "one_piece/one_piece_serie/video/211.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 211,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfc1"
+  },
+  "video": "one_piece/one_piece_serie/video/212.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 212,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfc3"
+  },
+  "video": "one_piece/one_piece_serie/video/213.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 213,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfc5"
+  },
+  "video": "one_piece/one_piece_serie/video/214.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 214,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfc7"
+  },
+  "video": "one_piece/one_piece_serie/video/215.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 215,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfc9"
+  },
+  "video": "one_piece/one_piece_serie/video/216.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 216,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfcb"
+  },
+  "video": "one_piece/one_piece_serie/video/217.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 217,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfcd"
+  },
+  "video": "one_piece/one_piece_serie/video/218.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 218,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfcf"
+  },
+  "video": "one_piece/one_piece_serie/video/219.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 219,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfd1"
+  },
+  "video": "one_piece/one_piece_serie/video/220.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 220,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfd3"
+  },
+  "video": "one_piece/one_piece_serie/video/221.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 221,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfd5"
+  },
+  "video": "one_piece/one_piece_serie/video/222.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 222,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfd7"
+  },
+  "video": "one_piece/one_piece_serie/video/223.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 223,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfd9"
+  },
+  "video": "one_piece/one_piece_serie/video/224.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 224,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfdb"
+  },
+  "video": "one_piece/one_piece_serie/video/225.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 225,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfdd"
+  },
+  "video": "one_piece/one_piece_serie/video/226.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 226,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfdf"
+  },
+  "video": "one_piece/one_piece_serie/video/227.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 227,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfe1"
+  },
+  "video": "one_piece/one_piece_serie/video/228.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 228,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfe3"
+  },
+  "video": "one_piece/one_piece_serie/video/229.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 229,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfe5"
+  },
+  "video": "one_piece/one_piece_serie/video/230.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 230,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfe7"
+  },
+  "video": "one_piece/one_piece_serie/video/231.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 231,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfe9"
+  },
+  "video": "one_piece/one_piece_serie/video/232.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 232,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfeb"
+  },
+  "video": "one_piece/one_piece_serie/video/233.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 233,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfed"
+  },
+  "video": "one_piece/one_piece_serie/video/234.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 234,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfef"
+  },
+  "video": "one_piece/one_piece_serie/video/235.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 235,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cff1"
+  },
+  "video": "one_piece/one_piece_serie/video/236.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 236,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cff3"
+  },
+  "video": "one_piece/one_piece_serie/video/237.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 237,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cff5"
+  },
+  "video": "one_piece/one_piece_serie/video/238.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 238,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cff7"
+  },
+  "video": "one_piece/one_piece_serie/video/239.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 239,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cff9"
+  },
+  "video": "one_piece/one_piece_serie/video/240.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 240,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cffb"
+  },
+  "video": "one_piece/one_piece_serie/video/241.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 241,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cffd"
+  },
+  "video": "one_piece/one_piece_serie/video/242.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 242,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37cfff"
+  },
+  "video": "one_piece/one_piece_serie/video/243.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 243,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d001"
+  },
+  "video": "one_piece/one_piece_serie/video/244.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 244,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d003"
+  },
+  "video": "one_piece/one_piece_serie/video/245.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 245,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d005"
+  },
+  "video": "one_piece/one_piece_serie/video/246.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 246,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d007"
+  },
+  "video": "one_piece/one_piece_serie/video/247.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 247,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d009"
+  },
+  "video": "one_piece/one_piece_serie/video/248.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 248,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d00b"
+  },
+  "video": "one_piece/one_piece_serie/video/249.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 249,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d00d"
+  },
+  "video": "one_piece/one_piece_serie/video/250.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 250,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d00f"
+  },
+  "video": "one_piece/one_piece_serie/video/251.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 251,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d011"
+  },
+  "video": "one_piece/one_piece_serie/video/252.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 252,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d013"
+  },
+  "video": "one_piece/one_piece_serie/video/253.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 253,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d015"
+  },
+  "video": "one_piece/one_piece_serie/video/254.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 254,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d017"
+  },
+  "video": "one_piece/one_piece_serie/video/255.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 255,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d019"
+  },
+  "video": "one_piece/one_piece_serie/video/256.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 256,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d01b"
+  },
+  "video": "one_piece/one_piece_serie/video/257.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 257,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d01d"
+  },
+  "video": "one_piece/one_piece_serie/video/258.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 258,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d01f"
+  },
+  "video": "one_piece/one_piece_serie/video/259.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 259,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d021"
+  },
+  "video": "one_piece/one_piece_serie/video/260.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 260,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d023"
+  },
+  "video": "one_piece/one_piece_serie/video/261.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 261,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d025"
+  },
+  "video": "one_piece/one_piece_serie/video/262.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 262,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d027"
+  },
+  "video": "one_piece/one_piece_serie/video/263.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 263,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d029"
+  },
+  "video": "one_piece/one_piece_serie/video/264.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 264,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d02b"
+  },
+  "video": "one_piece/one_piece_serie/video/265.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 265,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d02d"
+  },
+  "video": "one_piece/one_piece_serie/video/266.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 266,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d02f"
+  },
+  "video": "one_piece/one_piece_serie/video/267.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 267,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d031"
+  },
+  "video": "one_piece/one_piece_serie/video/268.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 268,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d033"
+  },
+  "video": "one_piece/one_piece_serie/video/269.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 269,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d035"
+  },
+  "video": "one_piece/one_piece_serie/video/270.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 270,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d037"
+  },
+  "video": "one_piece/one_piece_serie/video/271.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 271,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d039"
+  },
+  "video": "one_piece/one_piece_serie/video/272.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 272,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d03b"
+  },
+  "video": "one_piece/one_piece_serie/video/273.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 273,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d03d"
+  },
+  "video": "one_piece/one_piece_serie/video/274.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 274,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d03f"
+  },
+  "video": "one_piece/one_piece_serie/video/275.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 275,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d041"
+  },
+  "video": "one_piece/one_piece_serie/video/276.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 276,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d043"
+  },
+  "video": "one_piece/one_piece_serie/video/277.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 277,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d045"
+  },
+  "video": "one_piece/one_piece_serie/video/278.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 278,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d047"
+  },
+  "video": "one_piece/one_piece_serie/video/279.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 279,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d049"
+  },
+  "video": "one_piece/one_piece_serie/video/280.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 280,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d04b"
+  },
+  "video": "one_piece/one_piece_serie/video/281.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 281,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d04d"
+  },
+  "video": "one_piece/one_piece_serie/video/282.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 282,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d04f"
+  },
+  "video": "one_piece/one_piece_serie/video/283.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 283,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d051"
+  },
+  "video": "one_piece/one_piece_serie/video/284.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 284,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d053"
+  },
+  "video": "one_piece/one_piece_serie/video/285.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 285,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d055"
+  },
+  "video": "one_piece/one_piece_serie/video/286.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 286,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d057"
+  },
+  "video": "one_piece/one_piece_serie/video/287.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 287,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d059"
+  },
+  "video": "one_piece/one_piece_serie/video/288.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 288,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d05b"
+  },
+  "video": "one_piece/one_piece_serie/video/289.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 289,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d05d"
+  },
+  "video": "one_piece/one_piece_serie/video/290.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 290,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d05f"
+  },
+  "video": "one_piece/one_piece_serie/video/291.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 291,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d061"
+  },
+  "video": "one_piece/one_piece_serie/video/292.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 292,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d063"
+  },
+  "video": "one_piece/one_piece_serie/video/293.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 293,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d065"
+  },
+  "video": "one_piece/one_piece_serie/video/294.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 294,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d067"
+  },
+  "video": "one_piece/one_piece_serie/video/295.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 295,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d069"
+  },
+  "video": "one_piece/one_piece_serie/video/296.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 296,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d06b"
+  },
+  "video": "one_piece/one_piece_serie/video/297.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 297,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d06d"
+  },
+  "video": "one_piece/one_piece_serie/video/298.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 298,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d06f"
+  },
+  "video": "one_piece/one_piece_serie/video/299.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 299,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e3cbde401554ce37d071"
+  },
+  "video": "one_piece/one_piece_serie/video/300.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650470be68030bd86b800c23"
+  },
+  "episode": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e5303e0be667a050b515"
+  },
+  "video": "the_pope_exorcist/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504e5303e0be667a050b510"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e5303e0be667a050b51b"
+  },
+  "video": "house_of_gucci/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504e5303e0be667a050b517"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6504e5303e0be667a050b520"
+  },
+  "video": "the_god_father/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "6504e5303e0be667a050b51d"
+  },
+  "episode": 1,
+  "__v": 0
+}]

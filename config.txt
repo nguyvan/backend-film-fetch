@@ -1,0 +1,9 @@
+// email
+fatcouple.anime121219@gmail.com
+Fatcoupleanime121219*
+// flickr
+fatcouple.anime121219@gmail.com
+Fatcoupleanime121219*
+// google cloud
+account-name: fatcouple.anime
+account-email: fatcouple-anime@fat-couple-anime.iam.gserviceaccount.com
