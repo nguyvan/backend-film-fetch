@@ -15,6 +15,8 @@ const MovieSchema = new Schema<MovieI>({
 	trailer_storage: String,
 	slug: String,
 	cover_storage: String,
+	cover_horizontal: String,
+	cover_horizontal_storage: String,
 	type: String,
 });
 

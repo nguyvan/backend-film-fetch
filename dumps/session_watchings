@@ -21,11 +21,71 @@
     "$oid": "650470be68030bd86b800c23"
   },
   "id_episode": {
-    "$oid": "650470be68030bd86b800c65"
+    "$oid": "650470be68030bd86b800c8d"
   },
   "last_update": {
-    "$date": "2023-09-15T21:10:23.112Z"
+    "$date": "2023-09-18T21:27:09.520Z"
   },
-  "current_time": 1444.855712890625,
+  "current_time": 1400.2510986328125,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65070a2eb773649e5dacf650"
+  },
+  "id_movie": {
+    "$oid": "6504e5303e0be667a050b517"
+  },
+  "id_episode": {
+    "$oid": "6504e5303e0be667a050b51b"
+  },
+  "last_update": {
+    "$date": "2023-09-17T16:03:09.803Z"
+  },
+  "current_time": 308.00115966796875,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65070a8ab773649e5dacf65e"
+  },
+  "id_movie": {
+    "$oid": "6504e5303e0be667a050b51d"
+  },
+  "id_episode": {
+    "$oid": "6504e5303e0be667a050b520"
+  },
+  "last_update": {
+    "$date": "2023-09-17T16:05:11.144Z"
+  },
+  "current_time": 129.00115966796875,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65070adab773649e5dacf665"
+  },
+  "id_movie": {
+    "$oid": "6504c7dc8e4efddb61c2cf74"
+  },
+  "id_episode": {
+    "$oid": "6504c7dc8e4efddb61c2cf79"
+  },
+  "last_update": {
+    "$date": "2023-09-17T15:02:10.077Z"
+  },
+  "current_time": 2643.501220703125,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65072412b773649e5dacf6d8"
+  },
+  "id_movie": {
+    "$oid": "6504e5303e0be667a050b510"
+  },
+  "id_episode": {
+    "$oid": "6504e5303e0be667a050b515"
+  },
+  "last_update": {
+    "$date": "2023-09-17T16:06:42.694Z"
+  },
+  "current_time": 63.500999450683594,
   "__v": 0
 }]

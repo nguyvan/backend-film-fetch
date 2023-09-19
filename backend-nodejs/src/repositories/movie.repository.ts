@@ -144,6 +144,8 @@ export class MovieRepository {
 						trailer_storage: 1,
 						cover: 1,
 						cover_storage: 1,
+						cover_horizontal: 1,
+						cover_horizontal_storage: 1,
 					},
 				},
 			])
@@ -158,10 +160,15 @@ export class MovieRepository {
 							movie.cover_storage,
 							movie.cover
 						);
+						const cover_horizontal = await getURL(
+							movie.cover_horizontal_storage,
+							movie.cover_horizontal
+						);
 						return {
 							...movie,
 							trailer,
 							cover,
+							cover_horizontal,
 						};
 					})
 				)

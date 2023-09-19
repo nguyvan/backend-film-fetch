@@ -44,6 +44,8 @@ interface ReturnMovieI {
 	cover_storage: string;
 	type: string;
 	nb_episode: number;
+	cover_horizontal: string | null;
+	cover_horizontal_storage: string;
 }
 
 interface ReturnSessionWatchingI {
@@ -160,6 +162,9 @@ export class SessionWatchingRepository {
 								cover: "$movie.cover",
 								cover_storage: "$movie.cover_storage",
 								type: "$movie.type",
+								cover_horizontal: "$movie.cover_horizontal",
+								cover_horizontal_storage:
+									"$movie.cover_horizontal_storage",
 							},
 							episode: {
 								id: "$episode._id",
@@ -187,6 +192,11 @@ export class SessionWatchingRepository {
 						movie.cover = await getURL(
 							movie.cover_storage,
 							movie.cover as string
+						);
+
+						movie.cover_horizontal = await getURL(
+							movie.cover_horizontal_storage,
+							movie.cover_horizontal as string
 						);
 
 						movie.nb_episode =
@@ -276,6 +286,9 @@ export class SessionWatchingRepository {
 								cover: "$movie.cover",
 								cover_storage: "$movie.cover_storage",
 								type: "$movie.type",
+								cover_horizontal: "$movie.cover_horizontal",
+								cover_horizontal_storage:
+									"$movie.cover_horizontal_storage",
 							},
 							episode: {
 								id: "$episode._id",
@@ -304,6 +317,10 @@ export class SessionWatchingRepository {
 						movie.cover = await getURL(
 							movie.cover_storage,
 							movie.cover as string
+						);
+						movie.cover_horizontal = await getURL(
+							movie.cover_horizontal_storage,
+							movie.cover_horizontal as string
 						);
 
 						movie.nb_episode =

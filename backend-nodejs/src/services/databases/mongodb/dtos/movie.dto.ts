@@ -12,5 +12,7 @@ export interface MovieI extends Document {
 	trailer_storage?: string;
 	cover: string;
 	cover_storage?: string;
+	cover_horizontal: string;
+	cover_horizontal_storage?: string;
 	type: typeMovie;
 }
