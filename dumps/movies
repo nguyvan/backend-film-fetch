@@ -272,7 +272,9 @@
   "slug": "one_piece",
   "cover_storage": "MINIO",
   "type": "anime",
-  "__v": 0
+  "__v": 0,
+  "cover_horizontal": "one_piece/one_piece_serie/cover/2.jpg",
+  "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
     "$oid": "650470be68030bd86b800db9"
@@ -337,7 +339,9 @@
   "slug": "dr_stone_season_1",
   "cover_storage": "MINIO",
   "type": "anime",
-  "__v": 0
+  "__v": 0,
+  "cover_horizontal": "dr_stone_1/cover/2.jpeg",
+  "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
     "$oid": "6504c7dc8e4efddb61c2cf35"
@@ -373,7 +377,9 @@
   "slug": "dr_stone_season_2_stone_wars",
   "cover_storage": "MINIO",
   "type": "anime",
-  "__v": 0
+  "__v": 0,
+  "cover_horizontal": "dr_stone_2/cover/2.png",
+  "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
     "$oid": "6504c7dc8e4efddb61c2cf50"
@@ -409,7 +415,9 @@
   "slug": "dr_stone_season_3_new_world",
   "cover_storage": "MINIO",
   "type": "anime",
-  "__v": 0
+  "__v": 0,
+  "cover_horizontal": "dr_stone_3/cover/2.jpg",
+  "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
     "$oid": "6504c7dc8e4efddb61c2cf6b"
@@ -445,7 +453,9 @@
   "slug": "dr_stone_special_ryusui",
   "cover_storage": "MINIO",
   "type": "anime",
-  "__v": 0
+  "__v": 0,
+  "cover_horizontal": "dr_stone_special/cover/2.jpeg",
+  "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
     "$oid": "6504c7dc8e4efddb61c2cf74"
@@ -517,7 +527,9 @@
   "slug": "kimetsu_no_yaiba_thanh_guom_diet_quy_lang_tho_ren",
   "cover_storage": "MINIO",
   "type": "anime",
-  "__v": 0
+  "__v": 0,
+  "cover_horizontal": "kimetsu_no_yaiba_season3/cover/2.png",
+  "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
     "$oid": "6504e5303e0be667a050b510"
@@ -588,6 +600,72 @@
   "trailer": "the_god_father/trailer/1.mp4",
   "trailer_storage": "MINIO",
   "slug": "the_god_father",
+  "cover_storage": "MINIO",
+  "type": "movie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e15f58b8dfee21dc22937"
+  },
+  "name": "Black Swan",
+  "cover": "black_swan/cover/1.jpeg",
+  "description": "Nina Sayers (Natalie Portman) là một nữ diễn viên ba lê ở Thành phố New York sống với người mẹ hống hách (Barbara Hershey). Nữ diễn viên ba lê chính Beth MacIntyre (Winona Ryder) sẽ được thay thế cho phần mở đầu của vở Swan Lake. Nina được yêu thích nhất, nhưng vũ công mới Lily (Mila Kunis) cũng rất ấn tượng. Nina hoàn toàn phù hợp với vai diễn Thiên nga trắng xinh đẹp, dễ sợ và mong manh, nhưng cô ấy không thể vào đúng vai Thiên nga đen như Lily. Cô ấy bị ám ảnh bởi cơ thể ngày càng tàn tạ của mình khi tâm trí hoang tưởng của cô ấy sụp đổ.",
+  "kind": [
+    {
+      "name": "Tâm lý",
+      "slug": "tam_ly",
+      "_id": {
+        "$oid": "6504e5303e0be667a050b521"
+      }
+    }
+  ],
+  "trailer": "black_swan/trailer/1.mp4",
+  "trailer_storage": "MINIO",
+  "slug": "black_swan",
+  "cover_storage": "MINIO",
+  "type": "movie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e18288b8dfee21dc22941"
+  },
+  "name": "Morbius",
+  "cover": "morbius/cover/1.jpeg",
+  "description": "Nhà sinh hóa học Michael Morbius cố gắng chữa cho mình một căn bệnh máu hiếm gặp, nhưng khi thí nghiệm của ông gặp trục trặc, ông đã vô tình tự lây nhiễm cho mình một dạng ma cà rồng. Morbius tìm đến phương pháp chữa bệnh là sử dụng DNA của dơi ma cà rồng. Nó biến anh ta thành một sinh vật hút máu của bóng đêm, và giả ma cà rồng. Ban đầu là kẻ thù của Người Nhện và Blade, Morbius trở thành một kẻ cảnh giác trong khi vật lộn với sự thèm khát máu vô độ của mình và những nỗ lực sau đó để chữa khỏi tình trạng khủng khiếp của mình",
+  "kind": [
+    {
+      "name": "Hành động",
+      "slug": "hanh_dong",
+      "_id": {
+        "$oid": "6504e5303a0be667a050b51e"
+      }
+    }
+  ],
+  "trailer": "morbius/trailer/1.mp4",
+  "trailer_storage": "MINIO",
+  "slug": "the_god_father",
+  "cover_storage": "MINIO",
+  "type": "movie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e248e8b8dfee21dc22945"
+  },
+  "name": "Dogtooth",
+  "cover": "dogtooth/cover/1.jpeg",
+  "description": "Phim kể về 1 gia đình giàu có, nơi mà 3 người con được bao bọc trong 'nhung lụa', cho đến lúc trưởng thành họ vẫn chưa 1 lần được bước ra khỏi ngôi nhà có rào cao bao quanh. Mọi ngôn từ, hành động của họ đều được cha mẹ 'định nghĩa' cho, điều đó dẫn đến nhiều lệch lạc trong giới tính - hành động - cuộc sống",
+  "kind": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh_kich",
+      "_id": {
+        "$oid": "650470be68020bd86b800c06"
+      }
+    }
+  ],
+  "trailer": "dogtooth/trailer/1.mp4",
+  "trailer_storage": "MINIO",
+  "slug": "dogtooth",
   "cover_storage": "MINIO",
   "type": "movie",
   "__v": 0

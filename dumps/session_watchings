@@ -21,12 +21,12 @@
     "$oid": "650470be68030bd86b800c23"
   },
   "id_episode": {
-    "$oid": "650470be68030bd86b800c8d"
+    "$oid": "650470be68030bd86b800d59"
   },
   "last_update": {
-    "$date": "2023-09-18T21:27:09.520Z"
+    "$date": "2023-09-24T19:12:07.670Z"
   },
-  "current_time": 1400.2510986328125,
+  "current_time": 1315.2510986328125,
   "__v": 0
 },{
   "_id": {
@@ -39,9 +39,9 @@
     "$oid": "6504e5303e0be667a050b51b"
   },
   "last_update": {
-    "$date": "2023-09-17T16:03:09.803Z"
+    "$date": "2023-09-22T20:09:02.292Z"
   },
-  "current_time": 308.00115966796875,
+  "current_time": 9011.5009765625,
   "__v": 0
 },{
   "_id": {
@@ -84,8 +84,68 @@
     "$oid": "6504e5303e0be667a050b515"
   },
   "last_update": {
-    "$date": "2023-09-17T16:06:42.694Z"
+    "$date": "2023-09-24T14:11:39.489Z"
   },
-  "current_time": 63.500999450683594,
+  "current_time": 845.0010986328125,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e1a7fbcee9b4c8efaa921"
+  },
+  "id_movie": {
+    "$oid": "650e15f58b8dfee21dc22937"
+  },
+  "id_episode": {
+    "$oid": "650e148e8b8dfee21dc22934"
+  },
+  "last_update": {
+    "$date": "2023-09-22T23:04:24.203Z"
+  },
+  "current_time": 129.75100708007812,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e1dafbcee9b4c8efaa94d"
+  },
+  "id_movie": {
+    "$oid": "650e18288b8dfee21dc22941"
+  },
+  "id_episode": {
+    "$oid": "650e18cc8b8dfee21dc22943"
+  },
+  "last_update": {
+    "$date": "2023-09-22T23:05:31.212Z"
+  },
+  "current_time": 124.50072479248047,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650f326ebd84035956fb05ef"
+  },
+  "id_movie": {
+    "$oid": "650e248e8b8dfee21dc22945"
+  },
+  "id_episode": {
+    "$oid": "650e25ab8b8dfee21dc22947"
+  },
+  "last_update": {
+    "$date": "2023-09-24T16:28:15.920Z"
+  },
+  "current_time": 5642.7509765625,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6510673bea7713131388adc7"
+  },
+  "id_movie": {
+    "$oid": "650470be68030bd86b800db9"
+  },
+  "id_episode": {
+    "$oid": "650470be68030bd86b800dbd"
+  },
+  "last_update": {
+    "$date": "2023-09-24T16:43:39.381Z"
+  },
+  "current_time": 60.001121520996094,
   "__v": 0
 }]

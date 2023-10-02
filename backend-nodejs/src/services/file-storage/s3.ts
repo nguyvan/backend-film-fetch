@@ -137,7 +137,7 @@ export class S3MinioStorage {
 				const url = await getSignedUrl(this.storage, command, {
 					expiresIn: 60 * 60 * 24 * 3,
 				});
-				return url.replace("s3:9000", "192.168.1.29/s3");
+				return url.replace("s3:9000", "192.168.1.72/s3");
 			}
 			return;
 		} catch {

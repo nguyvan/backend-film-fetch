@@ -5150,4 +5150,45 @@
   },
   "episode": 1,
   "__v": 0
+},{
+  "_id": {
+    "$oid": "650e148e8b8dfee21dc22934"
+  },
+  "video": "black_swan/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650e15f58b8dfee21dc22937"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e18cc8b8dfee21dc22943"
+  },
+  "video": "morbius/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "id_movie": {
+    "$oid": "650e18288b8dfee21dc22941"
+  },
+  "episode": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e25ab8b8dfee21dc22947"
+  },
+  "id_movie": {
+    "$oid": "650e248e8b8dfee21dc22945"
+  },
+  "video": "dogtooth/video/1.mp4",
+  "poster": null,
+  "video_storage": "MINIO",
+  "poster_storage": "MINIO",
+  "episode": 1,
+  "__v": 0,
+  "subtitle": "dogtooth/sub/vi/Dogtooth.vtt",
+  "subtitle_storage": "MINIO"
 }]
