@@ -1,0 +1,22 @@
+Movie 
+
+id: ObjectId
+name: string
+cover: Image
+description: string
+kind: kind[]
+trailer: Video
+slug: string
+
+Episode
+
+id: ObjectId
+video: Video
+cover: Image
+id_movie: ObjectId
+episode: number
+
+kind
+
+name: string
+slug: string

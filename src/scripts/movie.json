@@ -1,0 +1,210 @@
+[
+	{
+		"name": "Harry Potter And The Sorcerer's Stone",
+		"slug": "harry_porter_and_the_sorcerers_stone",
+		"cover": "harry_potter/cover/1.jpeg",
+		"description": "Cậu bé Harry Potter sống sót sau trận tử chiến giữa Voldemort - chúa tể hắc ám và gia đình cậu. Cha mẹ của Harry đều qua đời và cậu được đưa đến nhà dì của mình. Mười một năm trôi qua, bí mật về danh tính và cái chết của cha mẹ cậu được giấu kín, và Harry lớn lên trong sự dằn vặt của gia đình dì và chú cho đến ngày cậu phát hiện ra mình là một thuật sĩ, nhưng là một thầy phù thủy. phù thủy nổi tiếng với vết sẹo trên trán. Harry Potter bước vào năm thứ nhất tại Hogwarts, kết bạn với Ron và Hermione. Tôi cũng nhận ra rằng mình đã từng thoát chết dưới tay của kẻ độc ác nhất thế giới phù thủy và khiến hắn mất hết sức lực. Giờ đây, nhân vật phản diện đó đang tìm cách hồi sinh, trở lại và tiêu diệt Harry Potter.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/1.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter And The Chamber Of Secrets",
+		"slug": "harry_porter_and_the_chamber_of_secrets",
+		"cover": "harry_potter/cover/2.jpeg",
+		"description": "Harry Potter dành cả mùa hè với Dursley mà không nhận được thư từ những người bạn ở Hogwarts. Trong phòng của mình, Harry gặp Dolph, một gia tinh cảnh báo anh ta về một mối nguy hiểm sẽ hình thành nếu anh ta trở lại Hogwarts. Dulk tiết lộ rằng anh ta đã chặn thư của bạn bè và phá hỏng bữa tối quan trọng của Dursley, người đã nhốt Harry và ngăn anh ta trở lại Hogwarts. Ron Weasley, bạn của Harry và hai anh em sinh đôi của cậu, Fred và George, giải cứu cậu trên chiếc Ford Anglia đang bay của cha họ.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/2.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter And The Prisoner Of Azkaban",
+		"slug": "harry_porter_and_the_prisoner_of_azkaban",
+		"cover": "harry_potter/cover/3.jpeg",
+		"description": "Harry Potter đã có một mùa hè không mấy vui vẻ với Dursley. Khi dì Marge Dursley xúc phạm cha mẹ cô, anh ta đã mất bình tĩnh và vô tình khiến cô căng lên như một quả bóng bay và trôi đi. Chán nản, Harry sau đó bỏ chạy khỏi Dursley với hành lý của mình. Các Xe buýt Hiệp sĩ đến và đưa Harry đến Vạc Rò rỉ, nơi cậu được Bộ trưởng Bộ Pháp thuật Cornelius Fudge ân xá vì đã sử dụng phép thuật bên ngoài trường Hogwarts. Sau khi đoàn tụ với những người bạn thân nhất Ron Weasley và Hermione Granger, Harry biết rằng Sirius Black, một kẻ bị kết án ủng hộ phù thủy hắc ám Chúa tể Voldemort, đã trốn thoát khỏi nhà tù Azkaban và có ý định giết anh ta.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/3.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter And The Gobelet Of Fire",
+		"slug": "harry_potter_and_the_gobelet_of_fire",
+		"cover": "harry_potter/cover/4.jpeg",
+		"description": "Harry Potter tỉnh dậy sau một cơn ác mộng, trong đó một người đàn ông tên là Frank Bryce đã bị giết sau khi nghe lỏm chúa tể Voldemort âm mưu với Peter Pettigrew và một người đàn ông khác. Trong khi Harry tham dự trận đấu Quidditch World Cup giữa Ireland và Bulgaria với Weasley và Hermione, các Tử thần Thực tử khủng bố trại, và người đàn ông xuất hiện trong giấc mơ của Harry triệu hồi Dấu ấn Hắc ám.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/4.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter And The Order Of The Phoenix",
+		"slug": "harry_potter_and_the_order_of_the_phoenix",
+		"cover": "harry_potter/cover/5.jpeg",
+		"description": "Harry Potter trở lại trường Hogwarts sau một mùa hè căng thẳng và đau buồn sau cái chết của người bạn thân Cedric Diggory trong phần trước. Harry cảm thấy bất mãn khi không ai tin rằng Lord Voldemort đã trở lại. Tại Hogwarts, Harry và bạn bè của mình bắt đầu tham gia vào lớp học Phòng ngừng thời gian dưới sự dẫn dắt của giáo viên mới, Giáo sư Dolores Umbridge. Umbridge là một người quản gia thất nghiệp của Bộ Phép thuật và yêu cầu tuân theo các quy tắc nghiêm ngặt, đặc biệt là không nói về việc Voldemort tái xuất.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/5.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter and the Half-Blood Prince",
+		"slug": "harry_potter_and_the_half_blood_prince",
+		"cover": "harry_potter/cover/6.jpeg",
+		"description": "Trong bối cảnh cuộc chiến chống lại tên ác quỷ Voldemort đang ngày càng trở nên ác độc hơn, Harry Potter trở lại trường Hogwarts để bắt đầu năm học thứ sáu của mình. Dumbledore, hiệu trưởng của Hogwarts, mời Harry tham gia vào một nhiệm vụ đặc biệt: giúp định vị và tìm hiểu về Horcruxes, những vật thể ma thuật mà Voldemort đã chia đôi linh hồn của mình để đạt được sự bất tử. Harry và Dumbledore bắt đầu tìm kiếm những dấu vết về Horcruxes và điều tra về quá khứ của Voldemort.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/6.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter and the Deathly Hallows – Part 1",
+		"slug": "harry_potter_and_the_deathly_hallows_part_1",
+		"cover": "harry_potter/cover/7-1.jpeg",
+		"description": "Harry, Ron, và Hermione quyết định không trở lại Hogwarts để tìm kiếm và phá hủy các Horcruxes còn lại của Voldemort. Horcruxes là những vật thể chứa linh hồn của Voldemort, và phá hủy chúng là cách để loại bỏ sự bất tử của ông. Harry và bạn bè của mình phải đối mặt với nhiều nguy hiểm và khó khăn trên hành trình của họ. Họ phải trốn chạy trước sự truy đuổi của bọn lính đội Death Eaters của Voldemort và tìm hiểu về những bí mật của nhà Gryffindor. Trong hành trình của mình, họ phát hiện ra về Hufflepuff's Cup, một trong số Horcruxes của Voldemort, và cố gắng đánh bại những rào cản và bảo vệ mà ông đã xây dựng xung quanh nó.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/7-1.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "Harry Potter and the Deathly Hallows – Part 2",
+		"slug": "harry_potter_and_the_deathly_hallows_part_2",
+		"cover": "harry_potter/cover/7-2.jpeg",
+		"description": "Harry, Ron và Hermione tiếp tục nhiệm vụ của họ trong việc tìm kiếm và phá hủy những Horcruxes còn lại của Voldemort. Họ nhận ra rằng một trong những Horcruxes cuối cùng là Ravenclaw's Diadem, một chiếc vòng độc ác được giấu trong ngôi nhà chống lại các lính đội Death Eaters của Voldemort tại Hogwarts. Hogwarts trở thành trường chiến đấu trong cuộc chiến cuối cùng giữa lực lượng của Harry và lực lượng của Voldemort. Harry và bạn bè của mình phải tìm cách xâm nhập vào ngôi nhà chống lại và tìm Diadem để phá hủy nó. Cuộc chiến nổ ra giữa hai phe, và Harry tìm cách tiến vào Hang loài rồng nơi diệt bỏ một trong các Horcruxes còn lại bằng một mảnh đá ma thuật đặc biệt, Mảnh đá Ma thuật. Trong một cuộc đối đầu cuối cùng, Harry và Voldemort đối mặt và Voldemort bị tiêu diệt bởi sự tự hủy của mình.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Viễn tưởng",
+				"slug": "vien_tuong"
+			}
+		],
+		"trailer": "harry_potter/trailer/7-2.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "movie"
+	},
+	{
+		"name": "One Piece",
+		"slug": "one_piece",
+		"cover": "one_piece/one_piece_serie/cover/1.jpeg",
+		"description": "Gol D. Roger được mệnh danh là Vua hải tặc, kẻ mạnh nhất và khét tiếng nhất đã chèo thuyền Grand Line. Việc bắt giữ và xử tử Roger của Chính phủ Thế giới đã mang lại một sự thay đổi trên toàn thế giới. Những lời cuối cùng trước khi chết cho thấy sự tồn tại của kho báu vĩ đại nhất thế giới, One Piece. Chính sự mặc khải này đã mang đến Thời đại Cướp biển vĩ đại, những người đàn ông mơ ước tìm thấy One Piece & mdash; hứa hẹn sẽ có vô số sự giàu có và danh tiếng & mdash; và hoàn toàn có thể là đỉnh cao của vinh quang và danh hiệu Vua hải tặc. Enter Monkey D. Luffy, một cậu bé 17 tuổi bất chấp định nghĩa tiêu chuẩn của bạn về một tên cướp biển. Thay vì tính cách phổ biến của một tên cướp biển độc ác, cứng rắn, không răng cưa để vui chơi, lý do trở thành cướp biển của Luffy là một trong những thắc mắc thuần túy: ý nghĩ về một cuộc phiêu lưu thú vị đưa anh ta đến với mọi người và cuối cùng, kho báu được hứa hẹn . Theo bước chân của người anh hùng thời thơ ấu của mình, Luffy và phi hành đoàn của mình du hành qua Grand Line, trải qua những cuộc phiêu lưu điên rồ, khám phá những bí ẩn đen tối và chiến đấu với những kẻ thù mạnh mẽ, tất cả để đạt được sự khao khát nhất trong tất cả các vận may & mdash; One Piece.",
+		"kind": [
+			{
+				"name": "Hành động",
+				"slug": "hanh_dong"
+			},
+			{
+				"name": "Drama",
+				"slug": "drama"
+			},
+			{
+				"name": "Phiêu lưu",
+				"slug": "phieu_luu"
+			},
+			{
+				"name": "Hài hước",
+				"slug": "hai_huoc"
+			}
+		],
+		"trailer": "one_piece/one_piece_serie/trailer/1.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "anime"
+	},
+	{
+		"name": "One Piece: Z - The Movie",
+		"slug": "one_piece_z_the_movie",
+		"cover": "one_piece/one_piece_film_z/cover/1.jpeg",
+		"description": "Quân át chủ bài của Hải quân, 'Viên đá Dyan' - được so sánh ngang hàng với Vũ khí cổ đại, đột nhiên bị đánh cắp! Và người đàn ông có sức mạnh kinh hoàng, cựu Đô Đốc/Thượng Tướng Hải Quân 'Z' sẽ là đối thủ của băng Mũ Rơm lần này! Tổng bộ Hải Quân tiến tới việc đối phó với âm mưu đe dọa làm lung lay các trụ cột của New World. Ở nơi khác, Kuzan (Aokiji) trợ giúp cho băng Mũ Rơm. Cuối cùng, Luffy và đồng đội tiến lên chống lại Z cùng sức mạnh kinh hoàng của hắn.",
+		"kind": [
+			{
+				"name": "Phiêu lưu",
+				"slug": "phieu_luu"
+			},
+			{
+				"name": "Hài hước",
+				"slug": "hai_huoc"
+			}
+		],
+		"trailer": "one_piece/one_piece_film_z/trailer/1.mp4",
+		"trailer_storage": "MINIO",
+		"cover_storage": "MINIO",
+		"type": "anime"
+	}
+]
