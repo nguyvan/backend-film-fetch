@@ -532,28 +532,6 @@
   "cover_horizontal_storage": "MINIO"
 },{
   "_id": {
-    "$oid": "6504e5303e0be667a050b510"
-  },
-  "name": "The Pope's Exorcist",
-  "cover": "the_pope_exorcist/cover/1.jpeg",
-  "description": "Bộ phim lấy cảm hứng từ các tệp tin thực tế của Cha Gabriele Amorth, người được bổ nhiệm làm Giám đốc trừ tà chính của Vatican (diễn viên đoạt giải Oscar® Russell Crowe). Phim kể về cuộc điều tra của Amorth vào một trường hợp chiếm đoạt linh hồn đáng sợ của một cậu bé. Trong quá trình điều tra, ông phát hiện ra một âm mưu cổ xưa mà Vatican đã cố gắng giấu kín trong hàng thế kỷ.",
-  "kind": [
-    {
-      "name": "Kinh dị",
-      "slug": "kinh di",
-      "_id": {
-        "$oid": "6504e5303e0be667a050b511"
-      }
-    }
-  ],
-  "trailer": "the_pope_exorcist/trailer/1.mp4",
-  "trailer_storage": "MINIO",
-  "slug": "the_pope_exorcist",
-  "cover_storage": "MINIO",
-  "type": "movie",
-  "__v": 0
-},{
-  "_id": {
     "$oid": "6504e5303e0be667a050b517"
   },
   "name": "House of Gucci",
@@ -578,28 +556,6 @@
   "trailer": "house_of_gucci/trailer/1.mp4",
   "trailer_storage": "MINIO",
   "slug": "house_of_gucci",
-  "cover_storage": "MINIO",
-  "type": "movie",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6504e5303e0be667a050b51d"
-  },
-  "name": "The God Father",
-  "cover": "the_god_father/cover/1.jpeg",
-  "description": "THE GODFATHER khá đơn giản là một tác phẩm làm phim tuyệt vời, một sử thi theo nghĩa chân thực nhất của từ này và cho đến nay là bộ phim xã hội đen hay nhất từng được quay. Được tạo ra với sự khéo léo, phong cách phù hợp và một đạo diễn khơi gợi những màn trình diễn hoàn hảo từ một dàn diễn viên tài năng, đây là cách làm phim đúng như vậy. Bố già 'Don' Vito Corleone là người đứng đầu gia đình mafia Corleone ở New York. Anh ấy có mặt tại sự kiện đám cưới của con gái mình. Michael, con trai út của Vito và một lính thủy đánh bộ được trang trí trong Thế chiến II cũng có mặt trong đám cưới. Michael dường như không quan tâm đến việc trở thành một phần của công việc kinh doanh của gia đình. Vito là một người đàn ông mạnh mẽ, và tốt với tất cả những người tôn trọng anh ta nhưng lại tàn nhẫn với những người không tôn trọng. Nhưng khi một đối thủ hùng mạnh và xảo quyệt muốn bán ma túy và cần sự ảnh hưởng của Don, Vito từ chối làm điều đó. Những gì tiếp theo là một cuộc xung đột giữa những giá trị cũ đang phai nhạt của Vito và những cách thức mới có thể khiến Michael làm điều mà anh ấy miễn cưỡng nhất và tiến hành một cuộc chiến tranh chống lại tất cả các gia đình mafia khác có thể chia rẽ gia đình Corleone",
-  "kind": [
-    {
-      "name": "Hành động",
-      "slug": "hanh_dong",
-      "_id": {
-        "$oid": "6504e5303e0be667a050b51e"
-      }
-    }
-  ],
-  "trailer": "the_god_father/trailer/1.mp4",
-  "trailer_storage": "MINIO",
-  "slug": "the_god_father",
   "cover_storage": "MINIO",
   "type": "movie",
   "__v": 0
@@ -666,6 +622,50 @@
   "trailer": "dogtooth/trailer/1.mp4",
   "trailer_storage": "MINIO",
   "slug": "dogtooth",
+  "cover_storage": "MINIO",
+  "type": "movie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651726f2d5dc71021c9a696a"
+  },
+  "name": "The Pope's Exorcist",
+  "cover": "the_pope_exorcist/cover/1.jpeg",
+  "description": "Bộ phim lấy cảm hứng từ các tệp tin thực tế của Cha Gabriele Amorth, người được bổ nhiệm làm Giám đốc trừ tà chính của Vatican (diễn viên đoạt giải Oscar® Russell Crowe). Phim kể về cuộc điều tra của Amorth vào một trường hợp chiếm đoạt linh hồn đáng sợ của một cậu bé. Trong quá trình điều tra, ông phát hiện ra một âm mưu cổ xưa mà Vatican đã cố gắng giấu kín trong hàng thế kỷ.",
+  "kind": [
+    {
+      "name": "Kinh dị",
+      "slug": "kinh di",
+      "_id": {
+        "$oid": "651726f2d5dc71021c9a696b"
+      }
+    }
+  ],
+  "trailer": "the_pope_exorcist/trailer/1.mp4",
+  "trailer_storage": "MINIO",
+  "slug": "the_pope_exorcist",
+  "cover_storage": "MINIO",
+  "type": "movie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651726f2d5dc71021c9a6977"
+  },
+  "name": "The God Father",
+  "cover": "the_god_father/cover/1.jpeg",
+  "description": "THE GODFATHER khá đơn giản là một tác phẩm làm phim tuyệt vời, một sử thi theo nghĩa chân thực nhất của từ này và cho đến nay là bộ phim xã hội đen hay nhất từng được quay. Được tạo ra với sự khéo léo, phong cách phù hợp và một đạo diễn khơi gợi những màn trình diễn hoàn hảo từ một dàn diễn viên tài năng, đây là cách làm phim đúng như vậy. Bố già 'Don' Vito Corleone là người đứng đầu gia đình mafia Corleone ở New York. Anh ấy có mặt tại sự kiện đám cưới của con gái mình. Michael, con trai út của Vito và một lính thủy đánh bộ được trang trí trong Thế chiến II cũng có mặt trong đám cưới. Michael dường như không quan tâm đến việc trở thành một phần của công việc kinh doanh của gia đình. Vito là một người đàn ông mạnh mẽ, và tốt với tất cả những người tôn trọng anh ta nhưng lại tàn nhẫn với những người không tôn trọng. Nhưng khi một đối thủ hùng mạnh và xảo quyệt muốn bán ma túy và cần sự ảnh hưởng của Don, Vito từ chối làm điều đó. Những gì tiếp theo là một cuộc xung đột giữa những giá trị cũ đang phai nhạt của Vito và những cách thức mới có thể khiến Michael làm điều mà anh ấy miễn cưỡng nhất và tiến hành một cuộc chiến tranh chống lại tất cả các gia đình mafia khác có thể chia rẽ gia đình Corleone",
+  "kind": [
+    {
+      "name": "Hành động",
+      "slug": "hanh_dong",
+      "_id": {
+        "$oid": "651726f2d5dc71021c9a6978"
+      }
+    }
+  ],
+  "trailer": "the_god_father/trailer/1.mp4",
+  "trailer_storage": "MINIO",
+  "slug": "the_god_father",
   "cover_storage": "MINIO",
   "type": "movie",
   "__v": 0

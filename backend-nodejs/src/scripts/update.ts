@@ -50,6 +50,29 @@ import mongoose from "mongoose";
 async function main() {
 	const mongoDBConnection = new MongoDBConnection();
 	const episodeRepository = new EpisodeRepository(mongoDBConnection);
+	const movieRepository = new MovieRepository(mongoDBConnection);
+
+	await movieRepository.getModel().updateMany(
+		{},
+		{
+			$set: {
+				trailer_storage: typeS3.GOOGLE_CLOUD,
+				cover_storage: typeS3.GOOGLE_CLOUD,
+				cover_horizontal_storage: typeS3.GOOGLE_CLOUD,
+			},
+		}
+	);
+
+	await episodeRepository.getModel().updateMany(
+		{},
+		{
+			$set: {
+				video_storage: typeS3.GOOGLE_CLOUD,
+				poster_storage: typeS3.GOOGLE_CLOUD,
+				subtitle_storage: typeS3.GOOGLE_CLOUD,
+			},
+		}
+	);
 	// const movieRepository = new MovieRepository(mongoDBConnection);
 	// for (let data of datas) {
 	// 	await episodeRepository.getModel().findOneAndUpdate(
@@ -65,23 +88,23 @@ async function main() {
 	// 	);
 	// }
 	// console.log("ok");
-	const START = 1;
-	const END = 300;
-	const ID_MOVIE = "650470be68030bd86b800c23";
-	const array = [...Array(END - START + 1)].map((_, index) => index + 1);
-	for (let index of array) {
-		await episodeRepository.getModel().findOneAndUpdate(
-			{
-				id_movie: new mongoose.Types.ObjectId(ID_MOVIE),
-				episode: index,
-			},
-			{
-				skip_intro_time: index < 40 ? 60 * 2 : 60 * 2 + 5,
-			}
-		);
-		console.log(`video ${index} updated`);
-	}
-	console.log("ok");
+	// const START = 1;
+	// const END = 1000;
+	// const ID_MOVIE = "650470be68030bd86b800c23";
+	// const array = [...Array(END - START + 1)].map((_, index) => index + 1);
+	// for (let index of array) {
+	// 	await episodeRepository.getModel().findOneAndUpdate(
+	// 		{
+	// 			id_movie: new mongoose.Types.ObjectId(ID_MOVIE),
+	// 			episode: index,
+	// 		},
+	// 		{
+	// 			skip_intro_time: index < 40 ? 60 * 2 : 60 * 2 + 5,
+	// 		}
+	// 	);
+	// 	console.log(`video ${index} updated`);
+	// }
+	// console.log("ok");
 }
 
 main();

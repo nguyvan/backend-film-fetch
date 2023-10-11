@@ -16,12 +16,12 @@ export const getService = (req: Request, _: Response, next: NextFunction) => {
 			req.db = DatabaseFactory.getDatabase(DB.MONGODB);
 		}
 
-		const s3 = S3Factory.getS3(typeS3.MINIO);
+		const s3 = S3Factory.getS3(typeS3.GOOGLE_CLOUD);
 		if (s3) {
 			req.s3 = s3;
 		} else {
-			S3Factory.setS3(typeS3.MINIO);
-			req.s3 = S3Factory.getS3(typeS3.MINIO);
+			S3Factory.setS3(typeS3.GOOGLE_CLOUD);
+			req.s3 = S3Factory.getS3(typeS3.GOOGLE_CLOUD);
 		}
 		next();
 	} catch {

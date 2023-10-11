@@ -17,32 +17,33 @@ services:
         ports:
             - 8000:80
 
-    s3:
-        image: minio/minio
-        ports:
-            - 9000:9000
-            - 9001:9001
-        volumes:
-            - s3-data:/data
-        environment:
-            MINIO_ACCESS_KEY: cduLa9RZkcjOVlO2P46dlQ
-            MINIO_SECRET_KEY: 5qpIXFuMMw6n5c4qziKFNHOoG1D9WuEQ
-        command: minio server --console-address ":9001" /data
+    # s3:
+    #     image: minio/minio
+    #     ports:
+    #         - 9000:9000
+    #         - 9001:9001
+    #     volumes:
+    #         - s3-data:/data
+    #     environment:
+    #         MINIO_ACCESS_KEY: cduLa9RZkcjOVlO2P46dlQ
+    #         MINIO_SECRET_KEY: 5qpIXFuMMw6n5c4qziKFNHOoG1D9WuEQ
+    #     command: minio server --console-address ":9001" /data
 
-    createbuckets:
-        image: minio/mc
-        depends_on:
-            - s3
-        volumes:
-            - /media/npham/external/fatcouple-tv:/tmp/data
-        entrypoint: >
-            /bin/sh -c "
-            /usr/bin/mc config host add s3 http://s3:9000 cduLa9RZkcjOVlO2P46dlQ 5qpIXFuMMw6n5c4qziKFNHOoG1D9WuEQ;
-            /usr/bin/mc mb s3/fatcouple-tv;
-            /usr/bin/mc policy download s3/fatcouple-tv;
-            /usr/bin/mc cp /tmp/data s3/fatcouple-tv;
-            exit 0;
-            "
+    # createbuckets:
+    #     image: minio/mc
+    #     depends_on:
+    #         - s3
+    #     volumes:
+    #         - /media/npham/external/fatcouple-tv:/tmp/data
+    #     entrypoint: >
+    #         /bin/sh -c "
+    #         /usr/bin/mc config host add s3 http://s3:9000 cduLa9RZkcjOVlO2P46dlQ 5qpIXFuMMw6n5c4qziKFNHOoG1D9WuEQ;
+    #         /usr/bin/mc mb s3/fatcouple-tv;
+    #         /usr/bin/mc policy download s3/fatcouple-tv;
+    #         /usr/bin/mc cp /tmp/data s3/fatcouple-tv;
+    #         exit 0;
+    #         "
+
     backend:
         container_name: backend
         image: nguyvan/fatcouple-tv
@@ -58,7 +59,7 @@ services:
             - 5000:5000
         depends_on:
             - mongodb
-            - s3
+            # - s3
         expose:
             - 5000
         volumes:
@@ -76,10 +77,10 @@ services:
 
 volumes:
     mongodb-data: {}
-    s3-data:
-        driver: local
-        driver_opts:
-            type: none
-            device: /media/npham/external
-            o: bind
-    backend-nodejs: {}
+    # s3-data:
+    #     driver: local
+    #     driver_opts:
+    #         type: none
+    #         device: /media/npham/external
+    #         o: bind
+    # backend-nodejs: {}
